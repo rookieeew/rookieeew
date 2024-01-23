@@ -5,7 +5,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Tong Wu</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm <a href="https://drive.google.com/file/d/17dyjHdleVz15_PI7bpxCZwOJbNHm-Vzn/view?usp=sharing">Tong Wu</h1><br/>
+      <p>(Click My Name to Download Resume)</p>
+    </summary>
   </ul>
 </div>
 
@@ -80,7 +82,6 @@
 </p>
 
 <br/>
-<a href="https://drive.google.com/file/d/17dyjHdleVz15_PI7bpxCZwOJbNHm-Vzn/view?usp=sharing">Download My Resume</a>
 <!--profile visit count-->
 <div align="center">
   
