@@ -37,8 +37,35 @@
 - 📫 Feel free to reach me out **rookieeew@gmail.com**
 
 <!--Intro end-->
-
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Certificatins That I get🥇</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <ul>
+    <li>
+      <a href="https://www.credly.com/badges/ac5d83ee-a9f0-4b42-bb50-ace89d626b87/public_url"> Amazon Certified Developer-Associate</a>
+    </li>
+    <li>
+      <a href="https://www.credly.com/badges/22f98e1d-17a8-4369-bd1c-8c1533fcfa65/linked_in_profile"> Amazon Certified Cloud Practitioner</a>
+    </li>
+  </ul>
+</p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,github,html,idea,java,js,kotlin,linux,mongodb,mysql,nodejs,postman,py,react,&perline=14" />
+  </a>
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -74,18 +101,7 @@
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,github,html,idea,java,js,kotlin,linux,mongodb,mysql,nodejs,postman,py,react,&perline=14" />
-  </a>
-</p>
+
 
 
 <!-- Connect with me -->
