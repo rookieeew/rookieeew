@@ -32,7 +32,7 @@
 
 - 📖 I’m currently learning **React**
 
-- 🧑🏻‍💻 I'm currently implementing **my blog**
+- 🧑🏻‍💻 I'm currently implementing **my blog website**
 
 - 📩 Feel free to reach me out **rookieeew@gmail.com**
 
