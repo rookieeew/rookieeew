@@ -61,7 +61,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring-boot,django,flask,html,css,js,react,linux,aws,docker,mongodb,mysql,git,github,idea,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,django,flask,html,css,js,react,linux,aws,docker,mongodb,mysql,git,github,idea,postman&perline=6" />
   </a>
 </p>
 
