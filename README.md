@@ -26,15 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔎 I’m currently **looking for a full-time job**
 
-- 🌱 I’m currently learning **AWS Certified Developer Associate**
+- 📖 I’m currently learning **React**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🧑🏻‍💻 I'm currently implementing **my blog**
 
-- 💬 Ask me about **AWS, Springboot, Django**
-
-- 📫 Feel free to reach me out **rookieeew@gmail.com**
+- 📩 Feel free to reach me out **rookieeew@gmail.com**
 
 <!--Intro end-->
 <!--h1 without bottom border-->
