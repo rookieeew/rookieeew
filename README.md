@@ -12,11 +12,13 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> 
+-->
+
 
 
 <!--h2 without bottom border-->
@@ -32,7 +34,7 @@
 
 - 📖 I’m currently learning **React**
 
-- 🧑🏻‍💻 I'm currently implementing **my blog website**
+- 🧑🏻‍💻 Welcome to browse my portfolio -- <a href="https://www.thisistong.com">Tong Hub</a>
 
 - 📩 Feel free to reach me out **rookieeew@gmail.com**
 
