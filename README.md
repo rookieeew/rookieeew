@@ -32,7 +32,7 @@
 <!--Intro start-->
 - 🔎 I’m currently **looking for a full-time job**
 
-- 📖 I’m currently developing a **<a href="http://nuti.ch">E-commerce Home Furnishings Selling Platform**
+- 📖 I’m currently developing a *E-commerce Home Furnishings Selling Platform***<a href="http://nuti.ch">(Link)
 
 - 🧑🏻‍💻 Welcome to browse my portfolio -- <a href="https://www.thisistong.com">Tong Hub</a>
 
